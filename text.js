@@ -4,5 +4,6 @@
 		return 'do_nothing';
 	},
 	'prop2':'something',
-	'one_more':'good Thing'
+	'one_more':'good Thing',
+	'new':'just for write something'
 }
